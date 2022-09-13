@@ -1,8 +1,8 @@
 {
-  "name": "KING BOT - MD V2",
-  "description": "⎝🔥𝚱𝚰𝚴Ｇ🔥⎠ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴠ1.0.0",
-  "repository": "https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD",
-  "logo": "https://telegra.ph/file/24b9b8507613125d34bd1.jpg",
+  "name": "💃🅱🅻🅰🅲🅺 🅺🅸🅽🅶 🅼🅳 🆅2💃",
+  "description": "ꜱͥᴜͣɴͫᴇᴛʜ ʙͫᴏͬᴛ➣̶̶͙͙̽̽̽̽❑𝚂𝚄𝙽𝙴𝚃𝙷 𝚖𝚍²⁰²² ❑𝚔𝚒𝚗𝚐 𝚠𝚑𝚊𝚝𝚜 𝚊𝚙𝚙 𝚋𝚘𝚝 ❑ ꜱͥᴜͣɴͫᴇᴛʜ ʙͫᴏͬᴛͭ̚װהבא.",
+  "repository": "https://github.com/sacibaby/KING-BOT-MD/edit/master/settings.js",
+  "logo": "https://telegra.ph/file/132c8575beb7615ae668d.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": { 
             "BOT_NAME": {
